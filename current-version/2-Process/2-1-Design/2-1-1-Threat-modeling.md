@@ -110,7 +110,7 @@ Traditional threat modeling was a heavyweight, document-driven exercise done onc
 
 - [IriusRisk](https://www.iriusrisk.com/) — Automated threat modeling platform with rules-based threat generation from architecture questionnaires. Integrates with Jira for backlog creation.
 - [Microsoft Threat Modeling Tool](https://aka.ms/threatmodelingtool) — Free from Microsoft; focuses on DFD-based STRIDE analysis. Best suited to Microsoft-stack environments.
-- [Security Compass Platfrom](https://www.securitycompass.com/platform/) — Combines threat modeling with security requirements management; generates tasks directly into the development backlog.
+- [Security Compass Platform](https://www.securitycompass.com/platform/) — Combines threat modeling with security requirements management and code validation; generates tasks directly into the development backlog.
 - [ThreatModeler](https://www.threatmodeler.ai/) — Enterprise threat modeling platform that builds models from diagrams and infrastructure/IaC inputs and maps threats to controls and compliance frameworks.
 
 ---
